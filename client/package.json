@@ -1,0 +1,20 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "blockchain-hw"
+  },
+  "author": "ruct",
+  "license": "ISC",
+  "dependencies": {
+    "ether": "^0.0.9",
+    "ethers": "^6.0.8",
+    "web3": "^1.8.2"
+  }
+}
